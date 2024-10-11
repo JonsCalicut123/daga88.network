@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Daga88 - Trang Cá Cược Đá Gà Thomo Hàng Đầu Đông Nam Á, Uy Tín Từ 2013
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Daga88 <https://daga88.network/>`_ là trang web hàng đầu khu vực Đông Nam Á trong lĩnh vực cá cược và phát sóng trực tiếp đá gà, nổi bật với các trận đá gà Thomo và các đấu trường như CPC1, CPC2, CPC3, CPC4. Với chất lượng truyền phát hình ảnh Full HD, kho video trận đấu phong phú, cùng kiến thức hữu ích về chăm sóc chiến kê, Daga88 là địa chỉ uy tín và hấp dẫn cho những người đam mê đá gà.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 7/5 Trần Mai Ninh, Phường 12, Tân Bình, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0770841687. 
 
-Contents
---------
+Email: info@daga88.network. 
 
-.. toctree::
+Website: https://daga88.network/ 
 
-   usage
-   api
+#daga88 #trangchudaga88 #dangkydaga88 #dangnhapdaga88 #linkdaga88
